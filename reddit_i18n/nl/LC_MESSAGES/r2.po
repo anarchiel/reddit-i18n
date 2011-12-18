@@ -102,15 +102,15 @@ msgstr "te veel afbeeldingen (je krijgt er maar %d )"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Ongeldige afbeelding of algemene afbeeldingsfout"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "geclaimd! Tijd om naar iemands gebruikerspagina te gaan en hem of haar een kadootje te geven!"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "geclaimd!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
@@ -120,19 +120,19 @@ msgstr ""
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "probeer het morgen nog eens"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "ongeldige css klasse"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "teveel css klassen"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
-msgstr ""
+msgstr "maximum aan flairtemplates bereikt"
 
 #: r2/controllers/api.py:2303
 msgid "redirecting..."
@@ -215,11 +215,11 @@ msgstr "die gebruikersnaam is al in gebruik"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "die gebruikersnaam is in gebruik door een verwijderde account"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "je kunt niets versturen aan een gebruiker die je geblokkeerd hebt"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -231,7 +231,7 @@ msgstr "dat kun je niet doen"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "je bent niet ingelogd als die gebruiker"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
@@ -321,7 +321,7 @@ msgstr "je mag hier niet posten"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "je moet een subreddit kiezen"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -330,7 +330,7 @@ msgstr "die naam gaat niet werken"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "je doet dat echt te vaak. probeer het nog eens in %(time) seconden."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -406,43 +406,43 @@ msgstr "hier moet nog iets komen"
 
 #: r2/controllers/errors.py:82
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "die code hebben we nog nooit eerder gezien"
 
 #: r2/controllers/errors.py:83
 msgid "that code has already been claimed -- perhaps by you?"
-msgstr ""
+msgstr "die code is al geclaimd -- misschien door jou?"
 
 #: r2/controllers/errors.py:84
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "die reddit staat het niet toe om tekst te posten"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "die reddit staat alleen in tekstformaat posten toe"
 
 #: r2/controllers/errors.py:86
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "dat is een stukje geschiedenis geworden; te laat om nog te beantwoorden"
 
 #: r2/controllers/errors.py:87
 msgid "invalid css name"
-msgstr ""
+msgstr "ongeldige css naam"
 
 #: r2/controllers/errors.py:88
 msgid "too many flair css classes"
-msgstr ""
+msgstr "teveel flair css-klassen"
 
 #: r2/controllers/errors.py:89
 msgid "invalid client id"
-msgstr ""
+msgstr "ongeldig klant-id"
 
 #: r2/controllers/errors.py:90
 msgid "access denied by the user"
-msgstr ""
+msgstr "toegang geweigerd door de gebruiker"
 
 #: r2/controllers/errors.py:91
 msgid "please confirm the form"
-msgstr ""
+msgstr "bevestig alsjeblieft het formulier"
 
 #: r2/controllers/feedback.py:40
 msgid "help translate reddit into your language"
@@ -458,27 +458,27 @@ msgstr "help met zelfbediening"
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "(nog) geen commentaar"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "alle %d commentaren"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "top %d commentaren"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "toon alle %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "toon %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -486,7 +486,7 @@ msgstr "maak een reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "maak een community"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
@@ -531,41 +531,41 @@ msgstr "welkom terug"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "bedankt"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit goud"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "leuk geprobeerd."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "het goud is afgeleverd!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "bedankt voor het aanschaffen van reddit goud!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "bedankt voor het aanschaffen van creddits!"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Om ze te besteden bezoek je [/gold](/gold) of de gebruikerspagina van je favoriete persoon"
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "bedankt voor het even van reddit goud!"
 
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Je kadootje voor %s is afgeleverd"
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -655,11 +655,11 @@ msgstr "reacties"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "Mijn Identiteit"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Benader mijn reddit gebruikersnaam en inschrijfdatum"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
@@ -711,7 +711,7 @@ msgstr "selecteer je land, alsjeblieft"
 
 #: r2/controllers/validator/validator.py:1492
 msgid "Our ToS don't cover your country (yet). Sorry."
-msgstr ""
+msgstr "Onze gebruiksvoorwaarden slaan (nog) niet op jouw land. Sorry."
 
 #: r2/controllers/validator/validator.py:1511
 msgid "credit card numbers should be 13 to 16 digits"
@@ -731,7 +731,7 @@ msgstr "als je backslashes nodig hebt, doe je het fout"
 
 #: r2/lib/jsontemplates.py:302 r2/templates/usertext.html:55
 msgid "[removed]"
-msgstr ""
+msgstr "[verwijderd]"
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
@@ -855,7 +855,7 @@ msgstr "voorkeuren"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:424
 msgid "logout"
@@ -863,11 +863,11 @@ msgstr "log uit"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "neem contact met ons op"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "firefox uitbreiding"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
@@ -891,11 +891,11 @@ msgstr "winkel"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "adverteer"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
-msgstr ""
+msgstr "subreddits"
 
 #: r2/lib/menus.py:105 r2/templates/promotelinkform.html:317
 msgid "options"
@@ -962,12 +962,12 @@ msgstr "over"
 
 #: r2/lib/menus.py:127
 msgid "edit subscriptions"
-msgstr ""
+msgstr "wijzig abonnementen"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:1032
 #: r2/templates/createsubreddit.html:39
 msgid "community settings"
-msgstr ""
+msgstr "groepsinstellingen"
 
 #: r2/lib/menus.py:129
 msgid "edit moderators"
@@ -987,7 +987,7 @@ msgstr "ban gebruikers"
 
 #: r2/lib/menus.py:134
 msgid "edit user flair"
-msgstr ""
+msgstr "wijzig gebruikersflair"
 
 #: r2/lib/menus.py:136
 msgid "popular"
@@ -1584,7 +1584,7 @@ msgstr ""
 
 #: r2/lib/strings.py:141
 msgid "I couldn't understand your search query. Please try again."
-msgstr ""
+msgstr "Ik begreep je zoekvraag niet. Probeer het nog eens."
 
 #: r2/lib/strings.py:142
 msgid "You've submitted too many links recently. Please try again in an hour."
@@ -1655,12 +1655,12 @@ msgstr ""
 #: r2/lib/strings.py:150
 #, python-format
 msgid "Sorry, the maximum number of comments is %d."
-msgstr ""
+msgstr "Sorry, het maximaal aantal commentaren is %d."
 
 #: r2/lib/strings.py:151
 #, python-format
 msgid "%(sender)s just sent you %(amount)s of reddit gold! Wasn't that nice?"
-msgstr ""
+msgstr "%(sender) heeft je zojuist %(amount) reddit goud gestuurd! Hoe aardig is dat?"
 
 #: r2/lib/strings.py:152
 msgid ""
@@ -1759,8 +1759,8 @@ msgstr[1] "subreddits"
 #: r2/lib/strings.py:235
 msgid "creddit"
 msgid_plural "creddits"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "creddit"
+msgstr[1] "creddits"
 
 #: r2/lib/strings.py:238
 msgid "reader"
@@ -1854,7 +1854,7 @@ msgstr "%d-%m-%Y"
 
 #: r2/lib/pages/pages.py:235
 msgid "these reddits"
-msgstr ""
+msgstr "deze reddits"
 
 #: r2/lib/pages/pages.py:245
 msgid "Submit a link"
@@ -1862,11 +1862,11 @@ msgstr "Stuur een link in"
 
 #: r2/lib/pages/pages.py:255
 msgid "Create your own community"
-msgstr ""
+msgstr "Maak je eigen gemeenschap"
 
 #: r2/lib/pages/pages.py:261
 msgid "reddit gold creddits: now for sale!"
-msgstr ""
+msgstr "reddit goud creddits: nu te koop!"
 
 #: r2/lib/pages/pages.py:279
 msgid "moderators"
@@ -1890,15 +1890,15 @@ msgstr "reddiquette"
 
 #: r2/lib/pages/pages.py:425
 msgid "chrome extension"
-msgstr ""
+msgstr "chrome uitbreiding"
 
 #: r2/lib/pages/pages.py:429
 msgid "tools"
-msgstr ""
+msgstr "hulpmiddelen"
 
 #: r2/lib/pages/pages.py:436
 msgid "redditgifts"
-msgstr ""
+msgstr "redditkadootjes"
 
 #: r2/lib/pages/pages.py:437
 msgid "reddit.tv"
@@ -1923,7 +1923,7 @@ msgstr "log in of registreer"
 
 #: r2/lib/pages/pages.py:727
 msgid "request for permission"
-msgstr ""
+msgstr "verzoek voor toestemming"
 
 #: r2/lib/pages/pages.py:755
 msgid "bummer"
@@ -1946,7 +1946,7 @@ msgstr "doorzoek reddits"
 #: r2/lib/pages/pages.py:1090
 #, python-format
 msgid "your front page reddits (%s)"
-msgstr ""
+msgstr "jouw voorpaginareddits (%s)"
 
 #: r2/lib/pages/pages.py:1151 r2/templates/createsubreddit.html:189
 #: r2/templates/spotlightlisting.html:54
@@ -1959,24 +1959,24 @@ msgstr "trofeeën kast"
 
 #: r2/lib/pages/pages.py:1200
 msgid "an unknown amount"
-msgstr ""
+msgstr "een onbekende hoeveelheid"
 
 #: r2/lib/pages/pages.py:1208
 msgid "less than a day"
-msgstr ""
+msgstr "minder dan een dag"
 
 #: r2/lib/pages/pages.py:1217
 #, python-format
 msgid "buy %(user)s a month of reddit gold"
-msgstr ""
+msgstr "koop een maand reddit goud voor %(user)"
 
 #: r2/lib/pages/pages.py:1220
 msgid "renew your reddit gold"
-msgstr ""
+msgstr "hernieuw je reddit goud"
 
 #: r2/lib/pages/pages.py:1223
 msgid "treat yourself to reddit gold"
-msgstr ""
+msgstr "trakteer jezelf op reddit goud"
 
 #: r2/lib/pages/pages.py:1258
 msgid "page not found"
@@ -1989,12 +1989,12 @@ msgstr "het is je niet toegestaan om dat te doen"
 #: r2/lib/pages/pages.py:1397
 #, python-format
 msgid "raise it to %s"
-msgstr ""
+msgstr "verhoog het naar %s"
 
 #: r2/lib/pages/pages.py:1399 r2/lib/pages/pages.py:1408
 #, python-format
 msgid "%s visible"
-msgstr ""
+msgstr "%s zichtbaar"
 
 #: r2/lib/pages/pages.py:1406
 #, python-format
@@ -2020,23 +2020,23 @@ msgstr "Deze functie is momenteel onbeschikbaar. Sorry"
 
 #: r2/lib/pages/pages.py:2457
 msgid "grant flair"
-msgstr ""
+msgstr "geef flair"
 
 #: r2/lib/pages/pages.py:2459
 msgid "edit flair templates"
-msgstr ""
+msgstr "wijzig flair-templates"
 
 #: r2/lib/pages/pages.py:2658
 msgid "user"
-msgstr ""
+msgstr "gebruiker"
 
 #: r2/lib/pages/pages.py:2658
 msgid "note"
-msgstr ""
+msgstr "opmerking"
 
 #: r2/lib/pages/pages.py:2658
 msgid "friendship"
-msgstr ""
+msgstr "vriendschap"
 
 #: r2/lib/pages/pages.py:2664
 msgid "add a friend"
@@ -2048,7 +2048,7 @@ msgstr "je vrienden"
 
 #: r2/lib/pages/pages.py:2696
 msgid "blocked users"
-msgstr ""
+msgstr "geblokkeerde gebruikers"
 
 #: r2/lib/pages/pages.py:2712
 msgid "add approved submitter"
@@ -2066,7 +2066,7 @@ msgstr "voeg een moderator toe"
 #: r2/lib/pages/pages.py:2736
 #, python-format
 msgid "moderators of %(reddit)s"
-msgstr ""
+msgstr "moderators van %(reddit)s"
 
 #: r2/lib/pages/pages.py:2759
 msgid "banned users"
@@ -2082,7 +2082,7 @@ msgstr "huidige kijkers"
 
 #: r2/lib/pages/pages.py:3731 r2/templates/accountactivitybox.html:24
 msgid "account activity"
-msgstr ""
+msgstr "accountactiviteit"
 
 #: r2/models/builder.py:103
 #, python-format
@@ -2108,7 +2108,7 @@ msgstr "reactie score beneden niveau"
 
 #: r2/models/link.py:810
 msgid "blocked user"
-msgstr ""
+msgstr "geblokkeerde gebruiker"
 
 #: r2/models/link.py:1125
 msgid "comment reply"
@@ -2120,11 +2120,11 @@ msgstr "stuur reactie"
 
 #: r2/models/link.py:1150
 msgid "[message from blocked user]"
-msgstr ""
+msgstr "[bericht van geblokkeerde gebruiker]"
 
 #: r2/models/link.py:1151
 msgid "[unblock user to see this message]"
-msgstr ""
+msgstr "[verwijder blokkade voor gebruiker om bericht te kunnen zien]"
 
 #: r2/models/mail_queue.py:308
 #, python-format
@@ -2196,7 +2196,7 @@ msgstr "[reddit] hé, nerd!"
 
 #: r2/models/mail_queue.py:324
 msgid "[reddit] reddit gold activation link"
-msgstr ""
+msgstr "[reddit] reddit gold activatielink"
 
 #: r2/models/subreddit.py:945
 msgid "on reddit.com"
@@ -2412,19 +2412,19 @@ msgstr "verberg code"
 
 #: r2/templates/buttontypes.html:189
 msgid "quite controversial"
-msgstr ""
+msgstr "nogal controversieel"
 
 #: r2/templates/buttontypes.html:193
 msgid "uncontroversial"
-msgstr ""
+msgstr "niet-controversieel"
 
 #: r2/templates/buttontypes.html:195
 msgid "quite uncontroversial"
-msgstr ""
+msgstr "nogal niet-controversieel"
 
 #: r2/templates/buttontypes.html:212
 msgid "Vote on this article"
-msgstr ""
+msgstr "Stem op dit artikel"
 
 #: r2/templates/buttontypes.html:217
 #, python-format
@@ -2442,7 +2442,7 @@ msgstr ""
 
 #: r2/templates/captcha.html:49
 msgid "are you human?"
-msgstr ""
+msgstr "ben je mens?"
 
 #: r2/templates/captcha.html:75
 msgid "human?"
@@ -2454,7 +2454,7 @@ msgstr "wissen"
 
 #: r2/templates/comment.html:58
 msgid "by"
-msgstr ""
+msgstr "door"
 
 #: r2/templates/comment.html:61
 msgid "in"
@@ -2508,7 +2508,7 @@ msgstr ""
 
 #: r2/templates/commentvisitsbox.html:48
 msgid "no highlighting"
-msgstr ""
+msgstr "geen uitlichten"
 
 #: r2/templates/createsubreddit.html:47
 msgid "that subreddit doesn't exist, but you can create it here."
@@ -2516,52 +2516,52 @@ msgstr "die subreddit bestaat niet, maar je kan 'm hier maken."
 
 #: r2/templates/createsubreddit.html:55
 msgid "no spaces, e.g., slashdot"
-msgstr ""
+msgstr "geen spaties, bijvoorbeeldL slashdot"
 
 #: r2/templates/createsubreddit.html:55
 msgid "name"
-msgstr ""
+msgstr "naam"
 
 #: r2/templates/createsubreddit.html:69
 msgid "e.g., slashdot: news for nerds, stuff that matters"
-msgstr ""
+msgstr "bijvoorbeeld, slashdot: news for nerds, stuff that matters"
 
 #: r2/templates/createsubreddit.html:69 r2/templates/newlink.html:55
 #: r2/templates/promotelinkform.html:257
 msgid "title"
-msgstr ""
+msgstr "titel"
 
 #: r2/templates/createsubreddit.html:81
 msgid "500 characters max.  Make them count."
-msgstr ""
+msgstr "500 karakters maximaal. Zorg ervoor ze het waard zijn."
 
 #: r2/templates/createsubreddit.html:81
 msgid "description"
-msgstr ""
+msgstr "beschrijving"
 
 #: r2/templates/createsubreddit.html:90
 msgid "language"
-msgstr ""
+msgstr "taal"
 
 #: r2/templates/createsubreddit.html:101
 msgid "type"
-msgstr ""
+msgstr "type"
 
 #: r2/templates/createsubreddit.html:104
 msgid "public"
-msgstr ""
+msgstr "publiek"
 
 #: r2/templates/createsubreddit.html:105
 msgid "anyone can view and submit"
-msgstr ""
+msgstr "iedereen kan bekijken en insturen"
 
 #: r2/templates/createsubreddit.html:107
 msgid "restricted"
-msgstr ""
+msgstr "begrensd"
 
 #: r2/templates/createsubreddit.html:108
 msgid "anyone can view, but only some are approved to submit links"
-msgstr ""
+msgstr "iedereen kan bekijken maar alleen sommigen mogen links insturen"
 
 #: r2/templates/createsubreddit.html:110 r2/templates/subreddit.html:93
 msgid "private"
@@ -2569,7 +2569,7 @@ msgstr "privé"
 
 #: r2/templates/createsubreddit.html:111
 msgid "only approved members can view and submit"
-msgstr ""
+msgstr "alleen goedgekeurde leden kunnen bekijken en insturen"
 
 #: r2/templates/createsubreddit.html:117 r2/templates/prefoptions.html:243
 msgid "content options"
@@ -2589,35 +2589,35 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:124
 msgid "only links to external sites are allowed"
-msgstr ""
+msgstr "alleen links naar externe sites zijn toegestaan"
 
 #: r2/templates/createsubreddit.html:126
 msgid "text posts only"
-msgstr ""
+msgstr "alleen tekstposts"
 
 #: r2/templates/createsubreddit.html:127
 msgid "only text/self posts are allowed"
-msgstr ""
+msgstr "alleen tekst- en eigenposts zijn toegestaan"
 
 #: r2/templates/createsubreddit.html:133
 msgid "other options"
-msgstr ""
+msgstr "andere opties"
 
 #: r2/templates/createsubreddit.html:140
 msgid "viewers must be over eighteen years old"
-msgstr ""
+msgstr "kijkers moeten achtien jaar of ouder zijn"
 
 #: r2/templates/createsubreddit.html:148
 msgid "allow this reddit to be shown in the default set"
-msgstr ""
+msgstr "sta deze reddit toe om in de standaardset getoond te worden"
 
 #: r2/templates/createsubreddit.html:156
 msgid "show thumbnail images of content"
-msgstr ""
+msgstr "laat thumbnailafbeelding van de inhoud zien"
 
 #: r2/templates/createsubreddit.html:163
 msgid "domain"
-msgstr ""
+msgstr "domein"
 
 #: r2/templates/createsubreddit.html:170
 msgid "make custom CSS styles apply only when accessed from the cname."
